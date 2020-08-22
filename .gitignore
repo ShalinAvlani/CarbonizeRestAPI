@@ -1,0 +1,10 @@
+#Ignore json files
+*.json
+
+#Ignore the secrets.go file
+secrets.go
+
+#Ignore the web scrapers
+caloriescraper/
+carboncalc/
+recipescraper/
