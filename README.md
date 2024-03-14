@@ -43,4 +43,4 @@ The next steps in the program would be to perform better error handling instead 
 
 ## Video Demo
 For the demo, I was running the server code on an old 2010 Macbook Pro which is why responses times were slower than normal.
-[https://youtu.be/KDFO9I55SM4] (https://youtu.be/KDFO9I55SM4)
+[https://youtu.be/KDFO9I55SM4](https://youtu.be/KDFO9I55SM4)
