@@ -40,3 +40,7 @@ Keep in mind that the endpoints won't work without proper credential files, and 
 
 ## Future Improvements
 The next steps in the program would be to perform better error handling instead of causing the program to shutdown if an error occurs when performing CRUD operations on the database. Another feature to add would be to handle an exercising feature so that the user can keep track of calories burned and view exercise videos.
+
+## Video Demo
+For the demo, I was running the server code on an old 2010 Macbook Pro which is why responses times were slower than normal.
+[https://youtu.be/KDFO9I55SM4] (https://youtu.be/KDFO9I55SM4)
